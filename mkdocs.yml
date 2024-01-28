@@ -1,4 +1,9 @@
-site_name: My Docs
+site_name: Schedule-Abstraction Graph (SAG)
 
 theme:
   name: material
+
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
