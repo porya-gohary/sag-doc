@@ -1,5 +1,10 @@
 site_name: Schedule-Abstraction Graph (SAG)
 
+
+nav:
+  - Home: index.md
+  - Getting started: getting-started.md
+
 theme:
   name: material
 
